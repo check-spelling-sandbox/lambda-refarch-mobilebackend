@@ -96,7 +96,7 @@ After you have created the CloudFormation stack, you need to update the API you 
 1. Type a name for the key and then select **Save**.
 1. Note the **API key**. You will use this when running the mobile application.
 1. Click on **Usage Plans** and type a name for the plan. Disable Throttling and Quotas. Click **Next**.
-1. From the dropdowns, seleect your API and Stage created in Step 4. Click the Checkbox and then **Next**.
+1. From the dropdowns, select your API and Stage created in Step 4. Click the Checkbox and then **Next**.
 1. Click  **Add API Key to Usage Plan**  and enter the Key you created earlier then choose **Done**.
 
 #### Step 7: Update Your Amazon Cognito Identity Pool

@@ -570,7 +570,7 @@
       }
     },
     "CognitoIdentityPoolId": {
-      "Description": "Set CongnitoIdentityPoolId in Constants.swift to this value.",
+      "Description": "Set CognitoIdentityPoolId in Constants.swift to this value.",
       "Value": {
         "Ref": "CognitoPoolId"
       }
